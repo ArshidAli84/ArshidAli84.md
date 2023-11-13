@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
+- 🔭 I’m currently working on [30-Ready-ML-Projects]([https://github.com/jaiswaladi246/Python-4-DevOps](https://github.com/ArshidAli84?tab=repositories))
 
 - 🌱 I’m currently learning **Reinforcement Learning and its Applications**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/jaiswaladi246](https://github.com/ArshidAli84)]([https://github.com/jaiswaladi246](https://github.com/ArshidAli84))
+- 👨‍💻 All of my projects are available at (https://github.com/ArshidAli84)]((https://github.com/ArshidAli84))
 
 - 💬 Ask me about **Machine Learning, Smart Grid and Energy Management**
 

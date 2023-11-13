@@ -2,7 +2,7 @@
 
 <h3 align="center"> Graduate Researcher in the Field of Smart Grid | Energy Management | Artificial Intelligence | Machine Learning | Cyber-Physical Resilient System. Open to opportunities related to AI/tech field. 
 
-- 🔭 I’m currently working on [30-Ready-ML-Projects]([https://github.com/jaiswaladi246/Python-4-DevOps](https://github.com/ArshidAli84?tab=repositories))
+- 🔭 I’m currently working on [30-Ready-ML-Projects]([https://github.com/jaiswaladi246/Python-4-DevOps])
 
 - 🌱 I’m currently learning **Reinforcement Learning and its Applications**
 
